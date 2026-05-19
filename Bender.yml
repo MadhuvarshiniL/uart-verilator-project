@@ -1,0 +1,7 @@
+package:
+  name: uart_project
+
+sources:
+  - rtl/baud_gen.sv
+  - rtl/uart_tx.sv
+  - tb/tb_uart_tx.sv
